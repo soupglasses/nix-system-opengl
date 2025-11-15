@@ -30,7 +30,7 @@ Run graphics accelerated programs built with Nix on _any_ Linux distribution. Wo
 |---|:-:|:-:|:-:|
 | Requires no wrapping? (no `nixgl ...`) | ❌ | ❌ | ✅ |
 | Works with AMD/Intel? (Mesa) | ✅ | ❌ | ✅ |
-| Works with Nvidia? (Proprietary) | ✅ | ✅ | ⚠️[⁴](#ref-3) |
+| Works with Nvidia? (Proprietary) | ✅ | ✅ | ⚠️[³](#ref-3) |
 | Works with `nix run nixpkgs#...`? | ⚠️[¹](#ref-1) | ⚠️[¹](#ref-1) | ✅ |
 | Nix program can launch system apps? | ❌[²](#ref-2) | ❌[²](#ref-2) | ✅ |
 
